@@ -70,19 +70,6 @@ Digital gate-pass management system reducing manual processes by 90%
 - **Tech Stack:** React.js, Node.js, MongoDB, Express.js, JWT
 - [GitHub](https://github.com/rishuraj2401/Gate-Pass)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishuraj2401&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishuraj2401&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuraj2401&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ## 🏆 Achievements
 
