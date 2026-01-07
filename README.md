@@ -20,14 +20,14 @@ Backend Software Engineer with **1.5+ years** of experience building **fintech A
 
 ## 💼 Professional Experience
 
-**Software Development Engineer @ Wealthy** (October 2024 - Present)
+**Software Development Engineer @ Wealthy** (October 2025 - Present)
 - Building backend systems for wealth management platform using **Golang, Python Django, FastAPI, and GraphQL**
 - Developing **transaction processing systems** for Mutual Funds, PMS, and Fixed Deposits
 - Implementing **automated report generation pipelines** for financial schemes with real-time data aggregation
 - Architecting **GraphQL APIs** for efficient multi-product data querying
 - Optimizing database queries and implementing caching for financial data retrieval
 
-**System Development Engineer @ COSGRID Networks** (April 2024 - October 2024)
+**System Development Engineer @ COSGRID Networks** (April 2024 - October 2025)
 - Built RESTful APIs for ZTNA desktop applications serving 100+ enterprise users
 - Designed multi-tenant web filtering system with dynamic policy enforcement (500+ users)
 - Developed log processing pipelines handling 500GB+ daily data using Elasticsearch
